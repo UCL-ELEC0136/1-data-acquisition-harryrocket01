@@ -1,0 +1,9 @@
+name: daps
+channels:
+  - defaults
+dependencies:
+  - python == 3.11
+  - numpy
+  - requests
+  - jupyter
+  - jupyterlab
